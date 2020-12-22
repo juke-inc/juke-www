@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Collaborate, negotiate, and save money with Juke's vendor management platform.
+          Collaborate, negotiate, and save money with the next-generation vendor management platform.
         </p>
 
         <div className={styles.grid}>

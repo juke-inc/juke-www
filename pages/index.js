@@ -23,7 +23,7 @@ export default function Home() {
             <h3>Features</h3>
             <ul>
               <li>💸  &nbsp; Clever financial nudges to save you time and money.</li>
-              <li>📞  &nbsp; Dynamic address book to route you to halp.</li>
+              <li>📞  &nbsp; Dynamic address book to route you to the right haalp.</li>
               <li>🏷️  &nbsp; Flexible nesting and labeling to contextualize your vendor relationships.</li>
               <li>🔨  &nbsp; A whole lot more goodness to come!</li>
             </ul>

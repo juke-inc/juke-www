@@ -1,1 +1,1 @@
-This is Juke's marketing site, built with NextJS.
+This is Juke's marketing site, built with Next.js.

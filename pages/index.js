@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Collaborate, negotiate, and save with Juke.
+          Collaborate, negotiate, and save money with Juke's vendor management.
         </p>
 
         <p className={styles.description}>

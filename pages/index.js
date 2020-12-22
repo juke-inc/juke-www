@@ -11,15 +11,27 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Goodbye, wiki article from five years ago.
+          Goodbye, stale wiki articles. Hello, Juke.
         </h1>
 
         <p className={styles.description}>
-          Collaborate, negotiate, and save money with Juke's vendor management.
+          Collaborate, negotiate, and save money with Juke's vendor management platform.
         </p>
 
+        <div className={styles.grid}>
+          <div className={styles.card}>
+            <h3>Features</h3>
+            <ul>
+              <li>💸  &nbsp; Clever financial nudges to save you time and money.</li>
+              <li>📞  &nbsp; Dynamic address book to route you to halp.</li>
+              <li>🏷️  &nbsp; Flexible nesting and labeling to contextualize your vendor relationships.</li>
+              <li>🔨  &nbsp; A whole lot more goodness to come!</li>
+            </ul>
+          </div>
+        </div>
+
         <p className={styles.description}>
-          Coming soon.
+          Coming soon to a WFH set-up near you.
         </p>
       </main>
 

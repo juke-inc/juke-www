@@ -21,7 +21,6 @@ export default function Home() {
         <p className={styles.description}>
           Coming soon.
         </p>
-
       </main>
 
       <footer className={styles.footer}>
